@@ -107,3 +107,7 @@ def sinusoid1D(x: np.ndarray, A: float=1, freq: float=1, phase: float=0) -> np.n
        phase: float (default=0)
     """
     return A * np.sin(freq * x - phase)
+    
+def Lorentzian1D(x: np.ndarray, amplitude: Number, center: Number, wdth: Number) -> np.ndarray:
+    """Lorentzian fitting"""
+    return 2 * amplitude / np.pi * (wdth / (4 * (x - center)**2 + wdth**2))
