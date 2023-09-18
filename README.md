@@ -24,7 +24,11 @@ Installation
 To install Dataphile for general purposes use Pip:
 
 ```
-pip install dataphile
+pip install git+https://github.com/HsuTsuEn/dataphile.git
+```
+Password
+```
+pip install git+https://github.com/HsuTsuEn/dataphile.git
 ```
 
 If you are using Anaconda, install using the above call to pip _from inside your environment_.
