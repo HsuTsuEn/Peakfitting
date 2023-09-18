@@ -49,4 +49,4 @@ There is not as of yet a separate conda package.
 Using
 ------------
 Please download the example folder and run the jupyter file by using WS2.spc file.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Beg6QBFr1Bw?si=wssdx7KEkm9qXyoX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/Beg6QBFr1Bw?si=wssdx7KEkm9qXyoX "Video Title")
