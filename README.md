@@ -20,7 +20,10 @@ style="display:block;margin: 0 auto;">
 
 Installation
 ------------
-
+To install anaconda environment(MacOS/M2/M1):
+```
+https://repo.anaconda.com/archive/Anaconda3-2023.07-2-MacOSX-arm64.pkg
+```
 To install Dataphile for general purposes use Pip:
 
 ```
