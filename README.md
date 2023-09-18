@@ -36,7 +36,7 @@ pip install git+https://github.com/HsuTsuEn/dataphile.git
 ```
 Account
 ```
-HusTsuEn
+HsuTsuEn
 ```
 Password
 ```
