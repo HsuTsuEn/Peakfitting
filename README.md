@@ -34,14 +34,6 @@ To install Dataphile for general purposes use Pip:
 pip install pyspectra
 pip install git+https://github.com/HsuTsuEn/Peakfitting.git
 ```
-Account
-```
-HsuTsuEn
-```
-Password
-```
-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
-```
 
 If you are using Anaconda, install using the above call to pip _from inside your environment_.
 There is not as of yet a separate conda package.
