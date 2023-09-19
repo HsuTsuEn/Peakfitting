@@ -26,7 +26,7 @@ https://repo.anaconda.com/archive/Anaconda3-2023.07-2-MacOSX-arm64.pkg
 ```
 Open the terminal in anaconda:
 
-<img width="535" alt="open terminal in anaconda" src="https://github.com/HsuTsuEn/dataphile/assets/140251794/0d0e65e9-ff69-44ba-88c2-c6d2a663489d">
+<img width="535" alt="open terminal in anaconda" src="https://github.com/HsuTsuEn/Peakfitting/assets/140251794/925dac97-7b1f-45a8-bae3-9eefce1c1567">
 
 To install Dataphile for general purposes use Pip:
 
