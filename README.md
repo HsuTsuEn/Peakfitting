@@ -32,7 +32,7 @@ To install Dataphile for general purposes use Pip:
 
 ```
 pip install pyspectra
-pip install git+https://github.com/HsuTsuEn/dataphile.git
+pip install git+https://github.com/HsuTsuEn/Peakfitting.git
 ```
 Account
 ```
